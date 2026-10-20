@@ -9,14 +9,12 @@ Transforming complex data into strategic decision-making tools and high-performa
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghoufrane-bendahmane/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoufranebendahmane@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghouf)
+<div align="center">
 
-![](https://img.shields.io/badge/🎓_PFE_2027-Available_January-blue?style=for-the-badge)
-![](https://img.shields.io/badge/📍_Location-Casablanca%2C_Morocco-pin?style=for-the-badge&color=2e7d32)
+🌐 [LinkedIn](https://www.linkedin.com/in/ghoufrane-bendahmane/) • ✉️ [Email](mailto:ghoufranebendahmane@gmail.com) • 💻 [GitHub](https://github.com/ghouf)
 
-</div>
+🎓 **PFE 2027:** Seeking Internship (Jan 2027) &nbsp;|&nbsp; 📍 **Location:** Casablanca, Morocco
+
 </div>
 
 ---
