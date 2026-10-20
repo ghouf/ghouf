@@ -7,11 +7,16 @@
 Master's student in Big Data & IoT at ENSAM Casablanca  
 Transforming complex data into strategic decision-making tools and high-performance AI systems.
 
-[LinkedIn](https://www.linkedin.com/in/ghoufrane-bendahmane/) · [Email](mailto:ghoufranebendahmane@gmail.com) · [GitHub](https://github.com/ghouf)
+<div align="center">
 
-![](https://img.shields.io/badge/PFE_2027-Available_January-005f5f?style=flat-square)
-![](https://img.shields.io/badge/Based_in-Casablanca%2C_Morocco-22303c?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghoufrane-bendahmane/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoufranebendahmane@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ghouf)
 
+![](https://img.shields.io/badge/🎓_PFE_2027-Available_January-blue?style=for-the-badge)
+![](https://img.shields.io/badge/📍_Location-Casablanca%2C_Morocco-pin?style=for-the-badge&color=2e7d32)
+
+</div>
 </div>
 
 ---
